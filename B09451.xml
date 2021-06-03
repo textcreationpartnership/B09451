@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Loves master-piece, or, The coy lady over-come at last she seemed coy as other ladies use, who (that they like best) sometimes will refuse, but in conclusion, take them in the neck of time there's few that will refuse a P---eticoat, to the tune of, With a ha, ha, ha, you will undo me, &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09451</idno><idno type="EEBO-CITATION">62369463</idno>
+  <idno type="VID">188008</idno>
+  <idno type="EEBO-PROQUEST">2240860970</idno>
+  
+            <idno type="STC">Wing L3271</idno>
+            <idno type="STC">ESTC R180180</idno>
+            <idno type="OCLC">62369463</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09451)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188008)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2852:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Loves master-piece, or, The coy lady over-come at last she seemed coy as other ladies use, who (that they like best) sometimes will refuse, but in conclusion, take them in the neck of time there's few that will refuse a P---eticoat, to the tune of, With a ha, ha, ha, you will undo me, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coles, T. Vere and J. Wright,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1663-1674]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Place and date range of publication suggested by Wing (2nd ed.).</note>
+                  <note>Right half sheet contains: The second part to the same tune.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:188008:1"/>
+            <pb facs="tcp:188008:2"/>
+            <head>Loves Master-Piece: OR, The Coy Lady Over-come at Last.</head>
+            <argument>
+               <lg>
+                  <l>She seemed coy, as other Ladies use,</l>
+                  <l>Who (that they like best) sometimes will refuse,</l>
+                  <l>But in conclusion, take them in the nick</l>
+                  <l>Of time, there's few that will refuse a P—eticoat.</l>
+               </lg>
+            </argument>
+            <opener>To the Tune of, <hi>With a ha, ha, ha, you will undo me, &amp;c.</hi>
+            </opener>
+            <p>
+               <figure>
+                  <figDesc>stock woodcut busts</figDesc>
+               </figure>
+            </p>
+            <div n="1" type="part">
+               <lg>
+                  <l>
+                     <hi>A</hi> Gamester and a pretty Lady,</l>
+                  <l>went together for to play,</l>
+                  <l>Richly deckt, as fine as may be,</l>
+                  <l>on a pleasant Holly-day.</l>
+                  <l>
+                     <hi>With a pish, nay fie, you must not dally,</hi>
+                  </l>
+                  <l>
+                     <hi>pray leave off, where you begun;</hi>
+                  </l>
+                  <l>
+                     <hi>For if you touch my naked Belly,</hi>
+                  </l>
+                  <l>
+                     <hi>I am sham'd and quite undone.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>This gallant he had rich attire,</l>
+                  <l>with his fine Semarr, and Sash,</l>
+                  <l>Love had set his heart on fire,</l>
+                  <l>he was braver then <hi>Dick Swash;</hi>
+                  </l>
+                  <l>
+                     <hi>VVith a pish, nay fie, &amp;c.</hi>
+                  </l>
+                  <l>With his Golden Hilted Rapier,</l>
+                  <l>and his Muff hung in a string,</l>
+                  <l>And his Wigg, how he did vapour,</l>
+                  <l>he was fine as any thing:</l>
+                  <l>
+                     <hi>With a pish, nay fie, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>His Lady she was very splendant,</l>
+                  <l>both behind, and eke before,</l>
+                  <l>With her Bracelets, Peak, and Pendant,</l>
+                  <l>and her long strip't Iusticore;</l>
+                  <l>
+                     <hi>With a pish, nay fie, you must not dally,</hi>
+                  </l>
+                  <l>
+                     <hi>pray leave off, where you begun;</hi>
+                  </l>
+                  <l>
+                     <hi>For if you touch my naked belly,</hi>
+                  </l>
+                  <l>
+                     <hi>I am sham'd and quite undone.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb facs="tcp:188008:2"/>
+               <head>The second part, to the same Tune.</head>
+               <lg>
+                  <l>HEr Lipps more pure then any Amber</l>
+                  <l>and her Neck as white as Snow,</l>
+                  <l>I wish I had her in my Chamber,</l>
+                  <l>I would serve her I know how:</l>
+                  <l>
+                     <hi>with a pish, nay fie, you must not dally,</hi>
+                  </l>
+                  <l>
+                     <hi>pray leave off, where you begun,</hi>
+                  </l>
+                  <l>
+                     <hi>For if you touch my naked Belly,</hi>
+                  </l>
+                  <l>
+                     <hi>I am sham'd and quite undone.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>To speak truth, she was a beauty,</l>
+                  <l>of a rare vermilion hue,</l>
+                  <l>To admire her, was my duty,</l>
+                  <l>had you séen her, so would you:</l>
+                  <l>
+                     <hi>with a pish, nay fie, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Hand in hand they walk't together,</l>
+                  <l>glorious as the morning bright,</l>
+                  <l>Casting glances each at other,</l>
+                  <l>as fore-runners of delight.</l>
+                  <l>
+                     <hi>with a pish, nay fie, you must not dally,</hi>
+                  </l>
+                  <l>
+                     <hi>pray leave off, where you begun,</hi>
+                  </l>
+                  <l>
+                     <hi>For if you chance to raise my belly,</hi>
+                  </l>
+                  <l>
+                     <hi>I am sham'd and quite undone.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Coy she was, as e're was creature,</l>
+                  <l>loath to yield to his desire,</l>
+                  <l>Viewing of each comely fea<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ure,</l>
+                  <l>set this gallants heart on fire:</l>
+                  <l>
+                     <hi>with a pish, nay fie, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>With Complements he courted highly,</l>
+                  <l>for to win her to his will,</l>
+                  <l>She reply'd to him as slil<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</l>
+                  <l>making this her burden still;</l>
+                  <l>
+                     <hi>with a pish, nay fie, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Dearest Lady give attention,</l>
+                  <l>seal this motion if you can,</l>
+                  <l>For to my best apprehension,</l>
+                  <l>you were made to please a man:</l>
+                  <l>
+                     <hi>with a pish, nay fie, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Goddess <hi>Venus</hi> was the fairest,</l>
+                  <l>for lame <hi>Vulcan</hi> far unfit,</l>
+                  <l>Yet you see the choice and rarest,</l>
+                  <l>sometimes yeilds to take a bit:</l>
+                  <l>
+                     <hi>with a pish, nay fie, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>As this Goddess was your pattern,</l>
+                  <l>prove a Votaress to her shrine,</l>
+                  <l>Let me only raise your Apron,</l>
+                  <l>and for ever you are mine:</l>
+                  <l>
+                     <hi>with a pish, nay fie, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Quoth she, though <hi>Venus</hi> was a wanton,</l>
+                  <l>and a Girl that lov'd the Game,</l>
+                  <l>Have you nothing else to vaunt on,</l>
+                  <l>thereby others to defame:</l>
+                  <l>
+                     <hi>with a pish, nay fie, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>With such delays and scornful carriage,</l>
+                  <l>she would put him to a stand,</l>
+                  <l>Thinking so to cool his courage,</l>
+                  <l>but he would not be trappand:</l>
+                  <l>
+                     <hi>with a pish, nay fie, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Like bold <hi>Mars,</hi> he clipt his <hi>Venus,</hi>
+                  </l>
+                  <l>whilst his heart was on a flame,</l>
+                  <l>(Not regarding <hi>Vulcan</hi> jealous)</l>
+                  <l>hotly he pursu'd the game:</l>
+                  <l>
+                     <hi>with a pish, nay fie, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Little Cupid being playing,</l>
+                  <l>néer unto them in that field,</l>
+                  <l>Paid her home for her gain-saying,</l>
+                  <l>with one shoot he made her yeild.</l>
+                  <l>
+                     <hi>with a pish, nay fie, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>This gallant finding her so plyant,</l>
+                  <l>and her coyness over-past,</l>
+                  <l>Stout and bold as any Gyant,</l>
+                  <l>thought it time for to make hast:</l>
+                  <l>
+                     <hi>with a pish, nay fie, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Vnto a private place he led her,</l>
+                  <l>where such lovers do resort,</l>
+                  <l>And judge you what he there did with her</l>
+                  <l>for I left them to their sport.</l>
+                  <l>
+                     <hi>with a pish, nay fie, you must not dally,</hi>
+                  </l>
+                  <l>
+                     <hi>pray leave off as you begun,</hi>
+                  </l>
+                  <l>
+                     <hi>For if you chance to raise my belly,</hi>
+                  </l>
+                  <l>
+                     <hi>I am sham'd and quite undone.</hi>
+                  </l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for F. Coles. T. Vere. and J. Wright.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
